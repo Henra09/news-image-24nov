@@ -24,3 +24,5 @@ uses only the Node.js standard library.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Built for [make.fun's news-image bounty](https://make.fun/bounty/news-image-20261124).
